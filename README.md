@@ -1,4 +1,11 @@
 # Agroforestry resources repository
+## Table of content
+  * [What is this?](#what-is-this-)
+  * [Stuff by other people](#stuff-by-other-people)
+    + [Files: Research papers and books](#files--research-papers-and-books)
+  * [NylAF Content](#nylaf-content)
+  * [Funders](#funders)
+    
 ## What is this? 
 In this document, you will find tables that point you to files we have uploaded and/or videos created during the NylAF Project.
 ## Stuff by other people
