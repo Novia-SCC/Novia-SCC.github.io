@@ -12,3 +12,5 @@ These are documents which are relevant for Finnish agroforestry, useful for your
 ## NylAF Content
 Other way to access document - open the tab directly in the browser: [Other trial](Trees-Field-Drainage-Tiles-Fact-Sheet.pdf)
 
+## Funders
+![Funders](NylAFLogoBoardv6_EN_Transparent.png)
